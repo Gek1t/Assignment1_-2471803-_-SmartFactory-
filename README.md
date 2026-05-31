@@ -10,6 +10,8 @@
 
 **Institution**: School of Internet of Things, XJTLU Entrepreneur College (Taicang) 
 
+**Production Live URL**: https://zgqfsrrirberphfn2gddtg.streamlit.app/
+
 ---
 
 ## 1. Project Architecture & Pipeline
